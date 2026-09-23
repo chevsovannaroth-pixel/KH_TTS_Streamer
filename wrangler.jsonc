@@ -20,7 +20,7 @@
     {
       "binding": "DB",
       "database_name": "kh_tts_db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "edaac9bc-efda-40c1-afb5-6f6285f78dfc",
       "migrations_dir": "migrations"
     }
   ]
